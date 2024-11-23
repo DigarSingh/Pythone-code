@@ -16,7 +16,7 @@ print("\n")
 #identifiers --> this is single line comment
 
 ab12=5
-print(ab12)
+print(ab12) #5
 _=10
 print(_)
 
