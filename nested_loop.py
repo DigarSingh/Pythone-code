@@ -1,4 +1,4 @@
-num= 11
+num= eval(input("enter the number : "))
 if (num < 0):
     print("Number is negative.")
 elif (num > 0):
