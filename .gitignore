@@ -1,4 +1,11 @@
 .vscode/
 build
 __pycache__
-
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.pytest_cache/
+.coverage
